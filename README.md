@@ -217,8 +217,7 @@ If you use this framework in your research, please cite:
 ## 📧 Contact
 
 For questions and support:
-- Email: edugen@example.com
-- Issues: https://github.com/your-username/edugen-framework/issues
+- Email: pankaj.mishra@somaiya.edu
 
 ## 🙏 Acknowledgments
 
